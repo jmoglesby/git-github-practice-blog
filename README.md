@@ -2,6 +2,8 @@
 
 This is not a live blog, but rather a practice project undertaken for the purpose of learning more about how git and GitHub can be used as a team tool.
 
+<img src="screenshot.png" alt="Blog Screenshot">
+
 In the process of building this blog, I got experience with the following processes:
 
 * Creating, assigning, and fulfilling GitHub issues
